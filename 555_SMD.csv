@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D4";"LED_1206_3216Metric";1;"LED";;;
+2;"U1";"SOIC-8_3.9x4.9mm_P1.27mm";1;"LM555xM";;;
+3;"R5,R4,R3,R2,R1";"R_1206_3216Metric";5;"R";;;
+4;"Q1";"SOT-23";1;"MMBT3904";;;
+5;"J1";"PinHeader_1x05_P2.54mm_Vertical";1;"I/O";;;
+6;"D3";"D_MiniMELF";1;"LL4148";;;
+7;"D2";"D_DO-41_SOD81_P10.16mm_Horizontal";1;"1N47xxA";;;
+8;"D1";"D_MELF";1;"SM4007";;;
+9;"C4";"CP_Elec_8x10";1;"c";;;
+10;"C3,C1";"C_1206_3216Metric";2;"0.1uF";;;
+11;"C2";"CP_Elec_3x5.3";1;"10uF";;;
